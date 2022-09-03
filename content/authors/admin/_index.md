@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in computational Neuroimaging
+    - course: PhD in Computational Neuroimaging
       institution: The University of Melbourne
       year: 2022
     - course: MEng in Artificial Intelligence
