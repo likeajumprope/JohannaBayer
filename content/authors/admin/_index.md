@@ -10,24 +10,26 @@ role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: SThe University of Melbourne
+  - name: The University of Melbourne
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include neuroimaging, computer science, open science and open source..
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neuroimaging
+  - Computer Science
+  - Normative Modelling
+  - Open Science
+  - Open Source
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in computational Neuroimaging
+      institution: The University of Melbourne
+      year: 2022
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
