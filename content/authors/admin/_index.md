@@ -14,7 +14,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include neuroimaging, computer science, open science and open source..
+bio: My research interests include neuroimaging, computer science, open science and open source.
 
 # Interests to show in About widget
 interests:
@@ -30,11 +30,11 @@ education:
     - course: PhD in Computational Neuroimaging
       institution: The University of Melbourne
       year: 2022
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: M.Sc Cognitive Psychology
+      institution: LMU
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Psychology
+      institution: Otto Friedrich Universitaet Bamberg
       year: 2008
 
 # Social/Academic Networking
