@@ -28,6 +28,10 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
+  - description: 80%
+    icon: spider-web
+    icon_pack: fas
+    name: Front-end development
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
