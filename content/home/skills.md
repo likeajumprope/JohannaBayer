@@ -31,7 +31,7 @@ feature:
   - description: 80%
     icon: spider-web
     icon_pack: fas
-    name: Front-end development
+    name: Web dev
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
