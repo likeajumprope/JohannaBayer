@@ -32,10 +32,10 @@ education:
       year: 2022
     - course: M.Sc Cognitive Psychology
       institution: LMU
-      year: 2009
+      year: 2016
     - course: BSc in Psychology
       institution: Otto Friedrich Universitaet Bamberg
-      year: 2008
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
