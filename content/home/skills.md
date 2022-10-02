@@ -34,7 +34,7 @@ feature:
     name: Web dev
   - description: 80%
     icon: fa-laptop-code
-    icon_pack: fab
+    icon_pack: fas
     name: Machine learning
 
 # Uncomment to use emoji icons.
