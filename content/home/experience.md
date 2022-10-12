@@ -49,6 +49,6 @@ design:
   columns: '2'
   # Use a dark navy background with light text.
   background:
-    color: 'light-blue'
-    text_color_light: false
+    color: 'blue'
+    text_color_light: true
 ---
