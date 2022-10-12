@@ -32,10 +32,10 @@ feature:
     icon: spider-web
     icon_pack: fas
     name: Web dev
-  - description: 80%
-    icon: fa-laptop-code
-    icon_pack: fas
-    name: Machine learning
+  #- description: 80%
+    #icon: fa-laptop-code
+    #icon_pack: fas
+    #name: Machine learning
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
