@@ -5,9 +5,6 @@ title: Johanna Bayer
 # Is this the primary user of the site?
 superuser: true
 
-design:
-  columns: '2'
-
 
 # Role/position/tagline
 role: Research Fellow
@@ -80,3 +77,6 @@ Johanna Bayer is a research Fellow at the University of Melbourne
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+design:
+  columns: '2'
