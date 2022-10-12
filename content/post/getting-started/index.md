@@ -34,7 +34,7 @@ authors:
 
 tags:
   - Academic
-  _ Machine learning
+  - Machine learning
 
 
 categories:
