@@ -5,6 +5,10 @@ title: Johanna Bayer
 # Is this the primary user of the site?
 superuser: true
 
+design:
+  columns: '2'
+
+
 # Role/position/tagline
 role: Research Fellow
 
