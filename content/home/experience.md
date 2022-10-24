@@ -45,10 +45,11 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
-design:
-  columns: '2'
-  # Use a dark navy background with light text.
-  background:
-    color: 'blue'
-    text_color_light: true
+
+# design:
+#   columns: '2'
+#   # Use a dark navy background with light text.
+#   background:
+#     color: 'blue'
+#     text_color_light: true
 ---
