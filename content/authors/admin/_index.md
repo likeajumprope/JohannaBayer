@@ -14,7 +14,7 @@ role: Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The University of Melbourne
-    url: https://www.stanford.edu/
+    url: https://github.com/likeajumprope
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include neuroimaging, computer science, open science and open source.
