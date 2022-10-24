@@ -27,10 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Normative  modelling
+      tag: Normative modelling
     - name: Other
       tag: Demo
+    - name: Site effect correction
+      tag: Site effect correction
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
