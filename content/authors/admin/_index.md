@@ -33,7 +33,7 @@ education:
     - course: PhD in Computational Neuroimaging
       institution: The University of Melbourne
       year: 2022
-    - course: M.Sc Cognitive Psychology
+    - course: M.Sc Neuro-Cognitive Psychology
       institution: LMU
       year: 2016
     - course: BSc in Psychology
