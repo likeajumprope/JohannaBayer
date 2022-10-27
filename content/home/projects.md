@@ -27,12 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Normative  modelling
-      tag: Normative modelling
-    - name: Other
-      tag: Demo
+    - name: Normative  models
+      tag: Normative models
     - name: Site effect correction
       tag: Site effect correction
+    - name: Neuroimaging
+      tag: Neuroimaging
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
